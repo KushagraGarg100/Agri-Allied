@@ -1,5 +1,4 @@
 
-
 export default function Dashboard() {
   return (
     <div className="max-w-7xl mx-auto px-4 py-16 sm:px-6 lg:px-8 min-h-[70vh]">
@@ -7,7 +6,7 @@ export default function Dashboard() {
         AgriGuard AI Dashboard
       </h1>
       <p className="mt-4 text-lg text-slate-500">
-        Welcome to the AI-Powered Crop Advisory hub. The interactive chat interface skeleton will be integrated here[cite: 1].
+        Welcome to the AI-Powered Crop Advisory hub. The interactive chat interface skeleton will be integrated here.
       </p>
     </div>
   );

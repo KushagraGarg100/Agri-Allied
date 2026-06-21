@@ -5,17 +5,17 @@ export default function Home() {
   const coreFeatures = [
     {
       title: "Context-Grounding Guardrails",
-      description: "Our core backend platform isolates LLM tokens, preventing hallucinations and restricting outputs entirely to regional farming profiles[cite: 1].",
+      description: "Our core backend platform isolates LLM tokens, preventing hallucinations and restricting outputs entirely to regional farming profiles.",
       category: "Core AI Engine"
     },
     {
       title: "Low-Bandwidth Mobile Rendering",
-      description: "Built strictly for the remote field conditions of the Mandakini Collective, optimized to stream components efficiently over 2G/3G signals[cite: 1].",
+      description: "Built strictly for the remote field conditions of the Mandakini Collective, optimized to stream components efficiently over 2G/3G signals.",
       category: "Frontend UI"
     },
     {
       title: "Real-Time Response Pipelines",
-      description: "Asynchronous processing ensures immediate answers regarding crop diagnostics, avoiding operational delays[cite: 1].",
+      description: "Asynchronous processing ensures immediate answers regarding crop diagnostics, avoiding operational delays.",
       category: "Backend API"
     }
   ];

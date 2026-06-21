@@ -19,10 +19,10 @@ export default function Login() {
         {/* Header Section */}
         <div className="text-center">
           <span className="inline-flex items-center px-3 py-1 rounded-full text-xs font-medium bg-emerald-100 text-emerald-800 mb-3">
-            TBI-GEU Portal
+              Login Portal
           </span>
-          <h2 className="text-3xl font-extrabold text-slate-900 tracking-tight">
-            AgriGuard AI
+         <h2 className="text-2xl font-black! text-slate-900! tracking-tight block drop-shadow-xs">
+              AgriGuard AI
           </h2>
           <p className="mt-2 text-sm text-slate-600">
             Sign in to access your regional advisory command center.
@@ -46,7 +46,7 @@ export default function Login() {
                 className="appearance-none rounded-lg relative block w-full px-3 py-2 border border-slate-300 placeholder-slate-400 text-slate-900 focus:outline-none focus:ring-emerald-500 focus:border-emerald-500 text-sm bg-white"
               >
                 <option value="supervisor">Field Coordinator / Supervisor</option>
-                <option value="administrator">Incubator Admin (TBI-GEU)</option>
+                <option value="user">Standard User</option>
                 <option value="officer">Agricultural Extension Officer</option>
               </select>
             </div>
