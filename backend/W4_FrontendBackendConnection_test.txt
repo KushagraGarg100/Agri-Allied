@@ -1,0 +1,5 @@
+Frontend-Backend Connection Demo
+
+1. Dashboard showing live advisories fetched from the FastAPI backend.
+2. Home page reporting the backend health status from /health.
+3. Network tab should show successful requests to /api/v1/advisory and /health with HTTP 200 responses.
